@@ -1,2 +1,2 @@
 # wether
-Fetch Brunswick weather from BOM
+Fetch weather from BOM
